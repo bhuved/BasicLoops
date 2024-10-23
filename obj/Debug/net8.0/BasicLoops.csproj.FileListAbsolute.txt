@@ -1,0 +1,14 @@
+C:\Users\vedaa\source\repos\BasicLoops\bin\Debug\net8.0\BasicLoops.exe
+C:\Users\vedaa\source\repos\BasicLoops\bin\Debug\net8.0\BasicLoops.deps.json
+C:\Users\vedaa\source\repos\BasicLoops\bin\Debug\net8.0\BasicLoops.runtimeconfig.json
+C:\Users\vedaa\source\repos\BasicLoops\bin\Debug\net8.0\BasicLoops.dll
+C:\Users\vedaa\source\repos\BasicLoops\bin\Debug\net8.0\BasicLoops.pdb
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.AssemblyInfoInputs.cache
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.AssemblyInfo.cs
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.csproj.CoreCompileInputs.cache
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.dll
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\refint\BasicLoops.dll
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.pdb
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\BasicLoops.genruntimeconfig.cache
+C:\Users\vedaa\source\repos\BasicLoops\obj\Debug\net8.0\ref\BasicLoops.dll
